@@ -1,7 +1,7 @@
 # Risk and Security - A Working Hypothesis
 
 ## Background
-An acrhitecture repository can be placeholder for information about risk and security related concerns.
+An architecture repository can be placeholder for information about risk and security related concerns.
 Archimate has concepts that can be used and the Archimate Standard allows the use of attributes.
 The origin of the working hypothesis is a project for security in a shared Norwegian architecture within governmental sector.
 
