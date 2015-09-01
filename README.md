@@ -18,9 +18,9 @@ The rationale for further research is:
 - Develop both Java code and investigate how to utilize XSLT
 
 ## Roadmap:
-September 2015: Research repository created and initiated on GitHub
-October 2015: Scope for research completed
-November 2015: v 0.1 of requirements specification completed
+September 2015: Research repository created and initiated on GitHub  
+October 2015: Scope for research completed  
+November 2015: v 0.1 of requirements specification completed  
 
 
 ## Contact
