@@ -1,9 +1,9 @@
 # Working with Risk and Security in an Architecture Repository - A Working Hypothesis
 
-## Stament no 1
+## Statement no 1
 Working with Risk and Security concepts and their attributes in an Architecture Repository will **add** value to any enterpriseand their stakeholders, private or public.
 
-## Stament no 2
+## Statement no 2
 Working with Risk and Security concepts and their attributes in an Architecture Repository will **only** add value to the Security Architects
 
 ## Statement no 3
