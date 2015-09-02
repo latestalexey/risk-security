@@ -10,9 +10,9 @@ Working with Risk and Security concepts and their attributes in an Architecture 
 Working with Risk and Security concepts and their attributes in an Architecture Repository will **not** add value to any enterprise or stakeholder
 
 ### Background
-Working with security for most of my life and introduced to nEnterprise Architecture and Togaf in 2012, an architecture repository seems to be a possible placeholder for information about risk and security related concerns.
+Working with security for most of my life and introduced to Enterprise Architecture and Togaf in 2012, an architecture repository seemed to be a possible placeholder for information about risk and security related concerns.
 Archimate has concepts that can be used and the Archimate Standard allows the use of attributes.
-The origin of the working hypothesis is a project for security in a shared Norwegian architecture within governmental sector(2015).
+The genesis of the working hypothesis is a project for security in a shared Norwegian architecture within governmental sector(2015).
 
 ### Rationale
 The rationale for further research is:
