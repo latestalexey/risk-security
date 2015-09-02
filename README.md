@@ -1,14 +1,23 @@
-# Risk and Security - A Working Hypothesis
+# Working with Risk and Security in an Architecture Repository - A Working Hypothesis
+
+## Stament no 1
+Working with Risk and Security concepts and their attributes in an Architecture Repository will **add** value to any enterpriseand their stakeholders, private or public.
+
+## Stament no 2
+Working with Risk and Security concepts and their attributes in an Architecture Repository will **only** add value to the Security Architects
+
+## Statement no 3
+Working with Risk and Security concepts and their attributes in an Architecture Repository will **not** add value to any enterprise or stkeholder
 
 ## Background
-An architecture repository can be placeholder for information about risk and security related concerns.
+Working with security for most of my life and introduced to nEnterprise Architecture and Togaf in 2012, an architecture repository seems to be a possible placeholder for information about risk and security related concerns.
 Archimate has concepts that can be used and the Archimate Standard allows the use of attributes.
-The origin of the working hypothesis is a project for security in a shared Norwegian architecture within governmental sector.
+The origin of the working hypothesis is a project for security in a shared Norwegian architecture within governmental sector(2015).
 
 ## Rationale
 The rationale for further research is:
-- Stakeholder communication about risk and security
-- Wellinformed decision making in Risk assessment
+- Improved Stakeholder communication about risk and security
+- Improved decision making in Risk assessment
   - Lifecycle management of risk and security issues and concerns
 - Usability of OpenFair
 
