@@ -13,8 +13,12 @@
   <folder name="Motivation" id="5d6f6f13" type="motivation">
     <element xsi:type="archimate:Stakeholder" id="156c3093" name="Security Architect"/>
     <element xsi:type="archimate:Stakeholder" id="9d7a684a" name="Enterprise Architect"/>
-    <element xsi:type="archimate:Stakeholder" id="8c08acb9" name="CISO"/>
-    <element xsi:type="archimate:Stakeholder" id="c98a0ab9" name="CIO"/>
+    <element xsi:type="archimate:Stakeholder" id="8c08acb9" name="CISO">
+      <property key="Risk" value="Høy"/>
+    </element>
+    <element xsi:type="archimate:Stakeholder" id="c98a0ab9" name="CIO">
+      <property key="Riks" value="Høyy"/>
+    </element>
     <element xsi:type="archimate:Stakeholder" id="eda5de28" name="CEO">
       <property/>
     </element>
@@ -178,7 +182,7 @@
     </element>
     <element xsi:type="canvas:CanvasModel" id="f000257b" name="Overarching idea">
       <child xsi:type="canvas:CanvasModelBlock" id="0cb3da3e" textAlignment="1" borderColor="#000000">
-        <bounds x="216" y="96" width="176" height="71"/>
+        <bounds x="216" y="72" width="176" height="71"/>
         <sourceConnection xsi:type="canvas:CanvasModelConnection" id="ac05b8bc" source="0cb3da3e" target="b6371864" type="9"/>
         <content>Archi</content>
       </child>

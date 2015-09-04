@@ -178,30 +178,58 @@
     </element>
     <element xsi:type="canvas:CanvasModel" id="f000257b" name="Overarching idea">
       <child xsi:type="canvas:CanvasModelBlock" id="0cb3da3e" textAlignment="1" borderColor="#000000">
-        <bounds x="84" y="96" width="176" height="71"/>
+        <bounds x="216" y="96" width="176" height="71"/>
         <sourceConnection xsi:type="canvas:CanvasModelConnection" id="ac05b8bc" source="0cb3da3e" target="b6371864" type="9"/>
         <content>Archi</content>
       </child>
       <child xsi:type="canvas:CanvasModelBlock" id="3f2dc9a2" textAlignment="1" borderColor="#000000">
-        <bounds x="396" y="93" width="200" height="77"/>
-        <sourceConnection xsi:type="canvas:CanvasModelConnection" id="49cc44f3" source="3f2dc9a2" target="b6371864" type="9"/>
+        <bounds x="629" y="93" width="200" height="77"/>
+        <sourceConnection xsi:type="canvas:CanvasModelConnection" id="49cc44f3" name="Archimate Strategy and Motivation elements" source="3f2dc9a2" target="b6371864" type="9"/>
+        <sourceConnection xsi:type="canvas:CanvasModelConnection" id="8552c079" name="OpenFair factors and values" source="3f2dc9a2" target="b377999e" type="9"/>
         <content>Risk&amp;Security Plugin</content>
       </child>
-      <child xsi:type="canvas:CanvasModelBlock" id="b6371864" textAlignment="1" targetConnections="ac05b8bc 49cc44f3" borderColor="#000000">
-        <bounds x="216" y="324" width="200" height="83"/>
+      <child xsi:type="canvas:CanvasModelBlock" id="b6371864" textAlignment="1" targetConnections="ac05b8bc 49cc44f3 40fc1aaa" borderColor="#000000">
+        <bounds x="216" y="324" width="200" height="277"/>
+        <child xsi:type="canvas:CanvasModelBlock" id="60bca13e" textAlignment="1" borderColor="#000000">
+          <bounds x="15" y="41" width="166" height="44"/>
+          <content>Elements</content>
+        </child>
+        <child xsi:type="canvas:CanvasModelBlock" id="a79a7a56" textAlignment="1" borderColor="#000000">
+          <bounds x="15" y="108" width="166" height="44"/>
+          <content>Relationships</content>
+        </child>
+        <child xsi:type="canvas:CanvasModelBlock" id="d17d501b" textAlignment="1" borderColor="#000000">
+          <bounds x="15" y="180" width="166" height="44"/>
+          <content>Views</content>
+        </child>
         <content>Model file in xml</content>
       </child>
-      <child xsi:type="canvas:CanvasModelBlock" id="b377999e" textAlignment="1" borderColor="#000000">
-        <bounds x="516" y="468" width="289" height="145"/>
+      <child xsi:type="canvas:CanvasModelBlock" id="b377999e" textAlignment="1" targetConnections="8552c079" borderColor="#000000">
+        <bounds x="540" y="324" width="289" height="145"/>
+        <sourceConnection xsi:type="canvas:CanvasModelConnection" id="40fc1aaa" source="b377999e" target="b6371864"/>
         <child xsi:type="canvas:CanvasModelBlock" id="101f6f47" textAlignment="1" borderColor="#000000">
           <bounds x="12" y="60" width="111" height="59"/>
+          <sourceConnection xsi:type="canvas:CanvasModelConnection" id="6d8ff0b3" source="101f6f47" target="af4bd90e"/>
           <content>Name</content>
         </child>
         <child xsi:type="canvas:CanvasModelBlock" id="5fd5edac" textAlignment="1" borderColor="#000000">
           <bounds x="156" y="63" width="105" height="54"/>
+          <sourceConnection xsi:type="canvas:CanvasModelConnection" id="29fadcd2" source="5fd5edac" target="f551f8a3"/>
           <content>Value</content>
         </child>
         <content>Properties</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelBlock" id="db5917bc" textAlignment="1" borderColor="#000000">
+        <bounds x="540" y="480" width="289" height="121"/>
+        <child xsi:type="canvas:CanvasModelBlock" id="af4bd90e" textAlignment="1" targetConnections="6d8ff0b3" borderColor="#000000">
+          <bounds x="13" y="38" width="111" height="47"/>
+          <content>Factors</content>
+        </child>
+        <child xsi:type="canvas:CanvasModelBlock" id="f551f8a3" textAlignment="1" targetConnections="29fadcd2" borderColor="#000000">
+          <bounds x="156" y="37" width="105" height="50"/>
+          <content>Value</content>
+        </child>
+        <content>OpenFair Taxonomy</content>
       </child>
     </element>
   </folder>
