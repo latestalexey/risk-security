@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Requirements Risk &amp; Security" id="201fa1d4" version="3.1.1">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" xmlns:canvas="http://www.archimatetool.com/archimate/canvas" name="Requirements Risk &amp; Security" id="201fa1d4" version="3.1.1">
   <folder name="Business" id="064fc753" type="business"/>
   <folder name="Application" id="07d80c94" type="application">
     <element xsi:type="archimate:DataObject" id="6b38c23a" name="Archi Properties"/>
@@ -174,6 +174,34 @@
         <child xsi:type="archimate:DiagramObject" id="8d28b7e0" textAlignment="2" archimateElement="80109227">
           <bounds x="626" y="51" width="120" height="55"/>
         </child>
+      </child>
+    </element>
+    <element xsi:type="canvas:CanvasModel" id="f000257b" name="Overarching idea">
+      <child xsi:type="canvas:CanvasModelBlock" id="0cb3da3e" textAlignment="1" borderColor="#000000">
+        <bounds x="84" y="96" width="176" height="71"/>
+        <sourceConnection xsi:type="canvas:CanvasModelConnection" id="ac05b8bc" source="0cb3da3e" target="b6371864" type="9"/>
+        <content>Archi</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelBlock" id="3f2dc9a2" textAlignment="1" borderColor="#000000">
+        <bounds x="396" y="93" width="200" height="77"/>
+        <sourceConnection xsi:type="canvas:CanvasModelConnection" id="49cc44f3" source="3f2dc9a2" target="b6371864" type="9"/>
+        <content>Risk&amp;Security Plugin</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelBlock" id="b6371864" textAlignment="1" targetConnections="ac05b8bc 49cc44f3" borderColor="#000000">
+        <bounds x="216" y="324" width="200" height="83"/>
+        <content>Model file in xml</content>
+      </child>
+      <child xsi:type="canvas:CanvasModelBlock" id="b377999e" textAlignment="1" borderColor="#000000">
+        <bounds x="516" y="468" width="289" height="145"/>
+        <child xsi:type="canvas:CanvasModelBlock" id="101f6f47" textAlignment="1" borderColor="#000000">
+          <bounds x="12" y="60" width="111" height="59"/>
+          <content>Name</content>
+        </child>
+        <child xsi:type="canvas:CanvasModelBlock" id="5fd5edac" textAlignment="1" borderColor="#000000">
+          <bounds x="156" y="63" width="105" height="54"/>
+          <content>Value</content>
+        </child>
+        <content>Properties</content>
       </child>
     </element>
   </folder>
