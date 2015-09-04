@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" xmlns:canvas="http://www.archimatetool.com/archimate/canvas" name="Requirements Risk &amp; Security" id="201fa1d4" version="3.1.1">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Requirements Risk &amp; Security" id="201fa1d4" version="3.1.1">
   <folder name="Business" id="064fc753" type="business"/>
   <folder name="Application" id="07d80c94" type="application">
     <element xsi:type="archimate:DataObject" id="6b38c23a" name="Archi Properties"/>
@@ -176,7 +176,6 @@
         </child>
       </child>
     </element>
-    <element xsi:type="canvas:CanvasModel" id="f000257b" name="Overarching idea"/>
   </folder>
   <purpose>The purpose of this file is to capture requirements and features for a Risk and Security Plugin to Architool</purpose>
 </archimate:model>
