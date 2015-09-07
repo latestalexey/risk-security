@@ -1,10 +1,10 @@
 ## Working with Risk and Security in an Architecture Repository - A Working Hypothesis
 
 ### Stakeholders
-Security Architects  
-Enterprise Architects  
-Risk Managers  
-Project Managers  
+- Security Architects  
+- Enterprise Architects  
+- Risk Managers  
+- Project Managers  
 
 ### Statement no 1
 Working with Risk and Security concepts and their attributes in an Architecture Repository will **add** value to any enterprise and their stakeholders, private or public.
@@ -19,6 +19,9 @@ Working with Risk and Security concepts and their attributes in an Architecture 
 Working with security for most of my life and introduced to Enterprise Architecture and Togaf in 2012, an architecture repository seemed to be a possible placeholder for information about risk and security related concerns.
 Archimate has concepts that can be used and the Archimate Standard allows the use of attributes.
 The genesis of the working hypothesis is a project for security in a shared Norwegian architecture within governmental sector(2015).
+
+### Desired outcome of work  
+Improve how information and knowledge about risk/security is managed in day2day operation and projects  
 
 ### Rationale
 The rationale for further research is:
