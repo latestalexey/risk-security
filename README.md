@@ -1,5 +1,11 @@
 ## Working with Risk and Security in an Architecture Repository - A Working Hypothesis
 
+### Stakeholders
+Security Architects
+Enterprise Architects
+Risk Managers
+Project Managers
+
 ### Statement no 1
 Working with Risk and Security concepts and their attributes in an Architecture Repository will **add** value to any enterprise and their stakeholders, private or public.
 
@@ -17,13 +23,19 @@ The genesis of the working hypothesis is a project for security in a shared Norw
 ### Rationale
 The rationale for further research is:
 - Improved Stakeholder communication about risk and security
+  - Agreed viewpoints and views
 - Improved decision making in Risk assessment
+  - Agreed methods and models
   - Lifecycle management of risk and security issues and concerns
-- Usability of OpenFair
+- Usability of OpenFair - It is fit for purpose
   - The Standard
   - The Taxonomy
 
-### Implications
+### Effect
+How will this approach effect a desired outcome of working with risk and security?
+#### Positive
+
+#### Negative
 
 
 ### Approach
