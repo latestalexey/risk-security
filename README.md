@@ -1,10 +1,10 @@
 ## Working with Risk and Security in an Architecture Repository - A Working Hypothesis
 
 ### Stakeholders
-Security Architects
-Enterprise Architects
-Risk Managers
-Project Managers
+Security Architects  
+Enterprise Architects  
+Risk Managers  
+Project Managers  
 
 ### Statement no 1
 Working with Risk and Security concepts and their attributes in an Architecture Repository will **add** value to any enterprise and their stakeholders, private or public.
