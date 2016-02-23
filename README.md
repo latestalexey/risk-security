@@ -58,5 +58,5 @@ Feel free to contact me:
 
 Thorbjørn Ellefsen
 Security Architect
-Agency for Public Management and eGovernment
-tel@difi.no
+Capgemini
+thorbjorn.ellefsen@capgemini.com
