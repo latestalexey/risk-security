@@ -49,7 +49,8 @@ How will this approach effect a desired outcome of working with risk and securit
 ### Roadmap:
 September 2015: Research repository created and initiated on GitHub  
 October 2015: Scope for research completed  
-November 2015: v 0.1 of requirements specification completed  
+March 2016: v 1.0 of requirements specification completed  and startup for coding
+March/ April 2016: Development and testing
 
 
 ### Contact
